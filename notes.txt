@@ -1,0 +1,7 @@
+// From Command line upon starting new project:
+dir$ meteor reset
+dir$ meteor npm install
+
+dir$ git init     (if creating new repo)
+dir$ git statut   (make sure it worked)
+dir$ git add .    (add all he files)
